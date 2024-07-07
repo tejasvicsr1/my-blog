@@ -3,7 +3,7 @@ layout: post
 title:  "Why this blog?"
 author: Tejasvi
 categories: [ General, Life ]
-image: assets/images/12.jpg
+image: /assets/images/12.jpg
 featured: true
 hidden: true
 ---
