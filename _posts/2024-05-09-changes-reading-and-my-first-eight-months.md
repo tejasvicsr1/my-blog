@@ -74,7 +74,7 @@ It has also reinforced my belief that this is what I want to do long-term. The c
 
 As a smart individual (yes, I am a self-proclaimed erudite and I will stand by it), I feel that problem-solving is something that really is more fun than anything else. Dosteosvky, in his book, Memoirs from the House of the Dead (which at some point I will review), educates that the hardest thing to do is to not do anything (apologies for the gross oversimplification if you have read the book). If I have to do something for the rest of my life, I would problem solve. Research gives me that.
 
-![Why are you even reading this?](../assets/images/2024-05-09/research.jpg "Office")
+![Why are you even reading this?](../assets/images/2024-05-09/research.JPG "Office")
 
 *Research, like most things, is pay to win.*
 
